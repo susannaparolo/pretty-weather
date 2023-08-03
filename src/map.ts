@@ -10,3 +10,6 @@ const location = data.name;
 console.log(
   `Weather: ${weather} \nWindspeed: ${windSpeed} \nWind Degrees: ${windDegrees} \nTemp: ${temp} \nLocation: ${location}`
 );
+
+// change temp to celsius
+// move api key
