@@ -1,5 +1,6 @@
 export const sampleResponse = {
     coord: { lon: 0.03, lat: 51.5 },
+    
     weather: [ { id: 800, main: 'Clear', description: 'clear sky', icon: '01n' } ],
     base: 'stations',
     main: {
